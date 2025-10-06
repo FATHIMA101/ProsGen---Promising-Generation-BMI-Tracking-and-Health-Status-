@@ -56,3 +56,14 @@ Read doctor suggestions
 Stay informed on BMI changes
 
 Communicate with teachers or doctors
+
+# Setup & Run
+Prerequisites:
+
+Flutter SDK
+
+Android Studio / VSCode
+
+Running backend server (Node.js or similar)
+
+MongoDB/MySQL configured
