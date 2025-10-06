@@ -1,0 +1,1 @@
+This is a Flutter-based mobile app that allows students to track their BMI (Body Mass Index) data and receive doctor recommendations based on their health status. The app fetches real-time BMI data from a backend API and presents it in an intuitive list view. Users with abnormal BMI levels can navigate to a list of available doctors
